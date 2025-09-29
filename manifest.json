@@ -1,0 +1,23 @@
+{
+  "name": "InspireAI by blendfactor",
+  "short_name": "InspireAI",
+  "description": "AI-powered content idea generator for scripts, voice, and images.",
+  "start_url": "/inspire_ai_app.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#eab308",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/111827/fde047?text=IA",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/111827/fde047?text=InspireAI",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
